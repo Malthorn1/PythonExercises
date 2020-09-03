@@ -5,4 +5,3 @@ hej.txt
 README.md
 Week1
 Week2
-tksk@dsd.dk

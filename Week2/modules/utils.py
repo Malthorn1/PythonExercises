@@ -4,13 +4,16 @@ import os
 
 from pathlib import Path
 
+placeholderPath = "/home/jovyan/my_notebooks"
+
 
 def filesInDirectory (path):
-    print(listdir(path))
-    lst = listdir(path) 
+    print(os.listdir(path))
+    lst = os.listdir(path) 
     write_list_to_file("dirlist.txt",lst)
 
-##filesInDirectory (sys.argv[1])
+
+filesInDirectory (placeholderPath)
 
 def getListOfFiles(dirName):
     # create a list of file and sub directories 
@@ -26,10 +29,12 @@ def getListOfFiles(dirName):
             allFiles = allFiles + getListOfFiles(fullPath)
         else:
             allFiles.append(fullPath)
-                
+              
     return allFiles
 
-lst = getListOfFiles (sys.argv[1])
+
+
+lst = getListOfFiles (placeholderPath)
 write_list_to_file("recursivedirlist.txt", lst)
 
 
@@ -66,5 +71,10 @@ def hasMarkdown (lst):
                 lines = file_object.readlines()
                 for line in lines:
                     if "#" in line[0]:
+                        markdownlist = [line]
+                 
+                        write_list_to_file("mardowned.txt", markdownlist)
 
-            
+hasMarkdown(lst)     
+
+

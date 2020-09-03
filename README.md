@@ -5,6 +5,6 @@
 
 
 <b>Anden uges opgave ligger i week2   <br> 
-Opgave 1 ligger i selve week2 mappen, og har et par moduler.
+Opgave 1 ligger i selve week2 mappen, og har et par moduler. <br> 
 Opgave 2 ligger udelukkende i modul mappen 
 </b>

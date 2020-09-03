@@ -1,0 +1,10 @@
+/home/jovyan/my_notebooks/week2/exercise1.py
+/home/jovyan/my_notebooks/week2/modules/dirlist.txt
+/home/jovyan/my_notebooks/week2/modules/readFile.py
+/home/jovyan/my_notebooks/week2/modules/recursiveDirlist.txt
+/home/jovyan/my_notebooks/week2/modules/utils.py
+/home/jovyan/my_notebooks/week2/modules/writeToFIle.py
+/home/jovyan/my_notebooks/week2/modules/__pycache__/readFile.cpython-37.pyc
+/home/jovyan/my_notebooks/week2/modules/__pycache__/writeToFIle.cpython-37.pyc
+/home/jovyan/my_notebooks/week2/randomcsv.csv
+/home/jovyan/my_notebooks/week2/text.txt

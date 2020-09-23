@@ -16,15 +16,16 @@ def filesInDirectory (path):
 filesInDirectory (placeholderPath)
 
 def getListOfFiles(dirName):
-    # create a list of file and sub directories 
-    # names in the given directory 
+    #Laver en liste af filer og sub directories 
+    # samt navne i det givne directory 
+    
     listOfFile = os.listdir(dirName)
     allFiles = list()
-    # Iterate over all the entries
+    # Iterer over all entries 
     for entry in listOfFile:
-        # Create full path
+        # laver en full path 
         fullPath = os.path.join(dirName, entry)
-        # If entry is a directory then get the list of files in this directory 
+        #Hvis entryet er et directory, finder den en liste af filer i det directory 
         if os.path.isdir(fullPath):
             allFiles = allFiles + getListOfFiles(fullPath)
         else:

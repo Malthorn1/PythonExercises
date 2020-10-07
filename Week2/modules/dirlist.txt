@@ -1,7 +1,11 @@
 .git
 .ipynb_checkpoints
+Class Exercises
 dsafsa.txt
 hej.txt
 README.md
 Week1
 Week2
+Week3
+Week4
+Week5

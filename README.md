@@ -12,14 +12,14 @@ Opgave 1 ligger i selve week2 mappen, og har et par moduler. <br>
 <br>
 <b>Week 4  <br> </b>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Malthorn1/PythonExercises/master?filepath=%2FWeek4%2FWeek4Exercises.ipynb)
-
 <br>
 <b>Week 5  <br> </b>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Malthorn1/PythonExercises/master?filepath=Week5%2FWeek5Exercises.ipynb)
-
 <br>
 <b>Week 6  <br> </b>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Malthorn1/PythonExercises/master?filepath=Week6%2FExercises.ipynb)
+
+
 
 <br>
 <b>Week 7  <br> </b>

@@ -18,8 +18,7 @@ Opgave 1 ligger i selve week2 mappen, og har et par moduler. <br>
 <br>
 <b>Week 6  <br> </b>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Malthorn1/PythonExercises/master?filepath=Week6%2FExercises.ipynb)
-
-
-
 <br>
-<b>Week 7  <br> </b>
+<b>Week 7 og 8   <br> </b>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Malthorn1/PythonExercises/master?filepath=Week7-8%2Fweek7_8_scraping.ipynb)
+
